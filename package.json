@@ -1,0 +1,19 @@
+{
+  "name": "youtube-back",
+  "version": "1.0.0",
+  "description": "aplicaccion para proveer videos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "jnssan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
